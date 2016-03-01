@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16)
+[![Build Status](https://travis-ci.org/mluukkai/ohtutesti16.svg?branch=master)](https://travis-ci.org/mluukkai/ohtutesti16) [![Coverage Status](https://coveralls.io/repos/github/mluukkai/ohtutesti16/badge.svg?branch=master)](https://coveralls.io/github/mluukkai/ohtutesti16?branch=master)
